@@ -2,16 +2,14 @@
 
 List below marks the basic system system requirements for web department interns.
 
-- Node.js
+- [Google Chrome](https://www.google.com/chrome/)
 
-- NPM
+- [Node.js](https://nodejs.org/en/) [12.13.1 LTS]
 
-- Visual Studio Code
+- [NPM](https://docs.npmjs.com/cli/install)
 
-- PHP
+- [Visual Studio Code](https://code.visualstudio.com/)
 
-- Apache web server
+- [PHP, Apache, MySQL](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-ubuntu-18-04)
 
-- PHP Storm
-
--
+- [PHP Storm](https://www.jetbrains.com/phpstorm/)
